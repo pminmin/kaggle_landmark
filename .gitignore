@@ -1,0 +1,4 @@
+data/
+pickle/
+venv/
+*.py[cod]
